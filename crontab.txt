@@ -1,0 +1,1 @@
+*/2 * * * * python /app/request_executor.py >> /var/log/health_checker/http_request_executor.log 2>&1
